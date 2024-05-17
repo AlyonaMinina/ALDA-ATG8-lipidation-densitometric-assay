@@ -1,1 +1,2 @@
-# ALDA-ATG8-lipidation-densitometric-assay-
+# ALDA 
+**A**TG8-**L**ipidation **D**ensitometric **A**ssay
